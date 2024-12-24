@@ -23,7 +23,7 @@
     <img src="/static/assets/img/xrz.jpg" alt="周馨蕊" width="200" height="280">
     <div>
       <span style="font-size: 18px; font-weight: bold;">
-        <a href="https://xinrui-z.githun.io" style="text-decoration: none;">周馨蕊</a>
+        <a href="https://xinrui-z.github.io/" style="text-decoration: none;">周馨蕊</a>
       </span>
       <span style="font-size: 16px;">COO</span>
     </div>
